@@ -5,6 +5,12 @@ Authors:		Liran Mazliach	312179765
 
 Project:		this project purpose is to find primitive Pythagorean tiriples with threads
 
+Arguments:		This project get a file as an argument. the file must contain the follow parameters in this order:
+			- positive max pythagorean number 
+			- integer number of threads (0<n<=100)
+			- positive integer Buffer size
+			- output file name
+
 Description:	This is the main file of the project.
 */
 
