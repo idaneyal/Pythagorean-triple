@@ -1,7 +1,6 @@
 
 /*
-Authors:		Liran Mazliach	312179765
-				Idan Eyal		204487326
+Authors:		Idan Eyal
 
 Project:		this project purpose is to find primitive Pythagorean tiriples with threads
 
